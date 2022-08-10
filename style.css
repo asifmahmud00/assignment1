@@ -1,0 +1,25 @@
+body {
+    font-family: 'Merriweather', serif;
+}
+
+section {
+    margin: 2%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.left-border {
+    border-left: 10px solid rgb(155, 22, 22);
+    border-radius: 5px;
+
+
+    padding-left: 2%;
+
+
+}
